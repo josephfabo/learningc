@@ -40,6 +40,8 @@ Memory management is an important aspect of c programming. When you declare a va
 
 In c programming, an external file can be opened, read from and written in the c program. C include FILE type for defining a stream. file stream keeps track of where reading and writing last occured. The stdio.h library includes file handlinfg functions. he statement '#include stdio.h' gives you access to the following functions: fopen(), fclose(), fgetc(), fgets() fscan(), fputc(), fputs() and fprintf()
 
+<h3>🛠 Projects</h3>
 
+- 💻 &nbsp; Simple C Calculator: https://github.com/josephfabo/learningc/blob/main/calculator.c
 
 
